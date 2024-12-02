@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dev-Djelloul
-- 👀 I’m interested in lots of things from nature, culture to science, space and tech ! 
+- 👀 I’m interested in lots of things from nature & culture to science, space and tech ! 
 - 🌱 I’m currently learning basics in web languages 
 - 💞️ I’m looking to collaborate on diverse projects 
 - 📫 How to reach me is on my personal Instagram @dellllight 👽
