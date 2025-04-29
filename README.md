@@ -2,7 +2,9 @@
 - 👀 I’m interested in lots of things from Nature & Culture to Science, Space & Tech ! 
 - 🌱 I’m currently learning basics in web languages 
 - 💞️ I’m looking to collaborate on diverse projects 
-- 📫 How to reach me is on my personal website portfolio 👽, here it is : https://dev-djelloul.github.io/YellowBlueSkye-Portfolio/
+- 📫 How to reach me is on my personal website portfolio 👽, here it is : https://yellowblueskye.netlify.app/
+
+
 
 <!---
 Dev-Djelloul/Dev-Djelloul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
