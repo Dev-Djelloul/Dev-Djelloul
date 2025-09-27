@@ -2,8 +2,9 @@
 - 👀 I’m interested in lots of things from Nature & Culture to Science, Space & Tech ! 
 - 🌱 I’m currently learning basics in web languages 
 - 💞️ I’m looking to collaborate on diverse projects 
-- 📫 How to reach me is on my personal website portfolio 👽, here it is : https://yellowblueskye.netlify.app/
-
+- 📫 How to reach me is on my personal website portfolio 👽
+- https://digitalblueskye.netlify.app/
+  
 
 
 <!---
