@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Dev-Djelloul
-- 👀 I’m interested in lots of things from Nature & Culture to Science, Space & Tech ! 
-- 🌱 I’m currently learning basics in web languages 
-- 💞️ I’m looking to collaborate on diverse projects 
-- 📫 How to reach me is on my personal website portfolio 👽
+- 👋 Hi, My name is Yellow, i am a french parisian and i enjoy learning about this whole big universe of coding throught Copilot !
+- 👀 I’m interested in lots of things from Nature & Culture to Science, Space & Tech and more ! 
+- 🌱 I've learned the basics in web languages and now continuing on it !  
+- 💞️ I’m looking to collaborate on diverse projects as i am starting a new program as digital project manager ! 
+- 📫 How to reach me is on my personal website where you can find also my portfolio 👽
+- Here it is : you can click ont it and find me overthere !
 - https://digitalblueskye.netlify.app/
   
 
