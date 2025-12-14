@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Yellow, i am a french parisian and i enjoy learning about this whole big universe of coding throught Copilot !
+- 👋 Hi, My name is Yellow, i am a french parisian and i enjoy learning about this big universe of coding throughout Copilot !
 - 👀 I’m interested in lots of things from Nature & Culture to Science, Space & Tech and more ! 
 - 🌱 I've learned the basics in web languages and now continuing on it !  
 - 💞️ I’m looking to collaborate on diverse projects as i am starting a new program as digital project manager ! 
