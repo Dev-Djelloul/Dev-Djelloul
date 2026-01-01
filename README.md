@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on diverse projects as i am starting a new program as digital project manager ! 
 - 📫 How to reach me is on my personal website where you can find also my portfolio 👽
 - Here it is, just click on it and find me overthere ! See you guys ! 
-- https://digitalblueskye.netlify.app/
+- https://digitalblueskye.infinityfreeapp.com/
+  
   
 
 
